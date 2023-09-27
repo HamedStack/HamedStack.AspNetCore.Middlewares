@@ -1,5 +1,5 @@
 ﻿// ReSharper disable IdentifierTypo
-namespace HamedStack.AspNetCore.Middlewares.HttpContext;
+namespace HamedStack.AspNetCore.Middlewares.WebHttpContext;
 
 /// <summary>
 /// Provides a generic implementation of <see cref="IHttpContextValue{T}"/>.

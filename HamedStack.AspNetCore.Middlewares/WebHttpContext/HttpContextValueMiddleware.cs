@@ -3,7 +3,7 @@
 
 using Microsoft.AspNetCore.Http;
 
-namespace HamedStack.AspNetCore.Middlewares.HttpContext;
+namespace HamedStack.AspNetCore.Middlewares.WebHttpContext;
 
 /// <summary>
 /// Middleware to extract a value from the HTTP context and set it using a specific service.

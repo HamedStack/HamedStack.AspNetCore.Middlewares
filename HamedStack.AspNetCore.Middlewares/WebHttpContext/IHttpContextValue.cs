@@ -1,5 +1,5 @@
 ﻿// ReSharper disable IdentifierTypo
-namespace HamedStack.AspNetCore.Middlewares.HttpContext;
+namespace HamedStack.AspNetCore.Middlewares.WebHttpContext;
 
 /// <summary>
 /// Represents a generic interface for accessing and setting HTTP context values.
